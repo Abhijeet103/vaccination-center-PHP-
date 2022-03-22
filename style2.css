@@ -1,0 +1,24 @@
+*
+{
+    margin: auto;
+
+}
+.container h1 {
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    font-size: 50px;
+    color: #228B22;
+    padding-bottom: 50px;
+    
+
+}
+
+
+.container h3 {
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    color: #228B22;
+    padding-bottom: 50px;
+    
+
+}
